@@ -19,16 +19,16 @@ Kongre Dünyası uygulaması akademisyenler, profesyoneller ve meraklılarına T
 ![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/feature-image_1024x500.jpg?raw=true)
 
 ![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss1.jpg?raw=true)
-![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss1.jpg?raw=true)
+![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss2.jpg?raw=true)
 
-![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss1.jpg?raw=true)
-![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss1.jpg?raw=true)
+![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss3.jpg?raw=true)
+![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss4.jpg?raw=true)
 
-![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss1.jpg?raw=true)
-![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss1.jpg?raw=true)
+![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss5.jpg?raw=true)
+![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss6.jpg?raw=true)
 
-![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss1.jpg?raw=true)
-![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss1.jpg?raw=true)
+![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss7.jpg?raw=true)
+![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/ss8.jpg?raw=true)
 
 
 
