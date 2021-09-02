@@ -5,7 +5,8 @@
 ---
 Congress World app lists upcoming national and international academic and professional congress and conference events in Turkey for academics, professionals and enthusiasts. You can create favorites list for events that interest you. The app helps you find the event you are looking for by filtering by event categories, date range and location. Provides information about convention centers.
 
-[CongressWorld Android App Download](https://play.google.com/store/apps/details?id=com.congress.app)
+[Congress World iOS App Download](https://apps.apple.com/us/app/kongre-d%C3%BCnyas%C4%B1/id1564916604)
+[Congress World Android App Download](https://play.google.com/store/apps/details?id=com.congress.app)
 
 ---
 **Kongre Dünyası**
@@ -14,6 +15,8 @@ Kongre Dünyası uygulaması akademisyenler, profesyoneller ve meraklılarına T
 
 ---
 
+
+[Kongre Dünyası iOS Uygulaması İndir](https://apps.apple.com/us/app/kongre-d%C3%BCnyas%C4%B1/id1564916604)
 [Kongre Dünyası Android Uygulaması İndir](https://play.google.com/store/apps/details?id=com.congress.app)
 
 ![alt text](https://github.com/gencharitaci/CongressWorld/blob/main/feature-image_1024x500.jpg?raw=true)
